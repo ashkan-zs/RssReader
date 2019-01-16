@@ -20,8 +20,8 @@ public class Main extends Application{
 
 //        RssReader rssReader = new RssReader("http://talaangor.ir/fa/rss/allnews");
 //        Instagram instagram = new Instagram()
-//                .setUsername("zs.ashkan@yahoo.com")
-//                .setPassword("dev13717510");
+//                .setUsername("***")
+//                .setPassword("***");
 //        try {
 //            instagram.instaLogin();
 //            Feed feed = new Feed("http://talaangor.ir/fa/rss/allnews");
